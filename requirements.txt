@@ -1,0 +1,6 @@
+requests
+asyncio
+beautifulsoup4
+groq
+pytest-mock
+pytest
